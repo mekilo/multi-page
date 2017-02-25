@@ -1,0 +1,8 @@
+{
+  "env": {
+    "browser": true,//fa
+    "node": true,
+  },
+  "rules": {
+  }
+}
